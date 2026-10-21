@@ -1,6 +1,6 @@
 # Hi, I'm Petra
 
-**AI Engineer** focused on Computer Vision, LLM/RAG, and Edge AI — Yogyakarta, Indonesia.
+**AI Engineer** focused on Computer Vision, LLM/RAG, and Edge AI. Yogyakarta, Indonesia.
 Informatics graduate (AI specialization), Universitas Sanata Dharma. Former AI Engineer Intern at Beehive Drone.
 
 I build AI systems end to end: data labeling, training, evaluation, and deployment, from edge devices like the Raspberry Pi 5 to web apps.
