@@ -14,7 +14,7 @@ I build AI systems end to end: data labeling, training, evaluation, and deployme
 | **Palm Flower Ripeness Detection** | YOLOv8/11/26 models deployed on Raspberry Pi 5 + Sony IMX500 for drone integration (internship) | — |
 | **Warehouse Barcode, QR & Expiry Date Scanner** | Real-time multi-threaded pipeline: YOLO + zxing-cpp + OCR with image enhancement (internship) | — |
 
-## 🛠️ Tech Stack
+## Tech Stack
 **ML/DL:** Python · PyTorch · TensorFlow · YOLO · OpenCV · Hugging Face
 **LLM:** RAG · Ollama · OpenAI / Gemini API · BM25 · Rerankers
 **Engineering:** Flask · REST API · Docker · Git · Linux
